@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Random Question & Name Selector
-=======
 # Cold-call selector version 1
->>>>>>> secondary
 
 Randomly draws a name and a question, so the chosen person answers
 it in class.
